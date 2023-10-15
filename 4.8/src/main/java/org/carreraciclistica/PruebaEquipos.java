@@ -1,7 +1,7 @@
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
-public class Prueba {
+public class PruebaEquipos {
     /**
      * Método main que crea un equipo. Luego, crea un escalador, un
      * velocista y un contrarrelojista. Estos tipos de ciclistas son añadidos

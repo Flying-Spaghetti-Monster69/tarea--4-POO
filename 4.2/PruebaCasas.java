@@ -3,7 +3,7 @@
 * acuerdo al área y se muestran sus datos en pantalla
 * @version 1.2/2020
 */
-public class Prueba {
+public class PruebaCasas {
 /**
 * Método main que crea dos inmuebles, calcula su precio de
 * acuerdo al área y se muestran sus datos en pantalla
